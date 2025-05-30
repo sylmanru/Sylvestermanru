@@ -46,7 +46,7 @@
 
 ## 🛠️ **Cara Menggunakan**
 
-1. Tambahkan nomor Vynaa MD ke kontak Anda.
+1. Tambahkan nomor Raikun MD ke kontak Anda.
 2. Kirim pesan `!menu` untuk melihat daftar perintah.
 3. Pilih fitur yang ingin Anda gunakan dan ikuti petunjuknya.
 
@@ -60,7 +60,7 @@
 
 Kunjungi repositori GitHub Vynaa MD untuk melihat kode sumber dan berkontribusi:
 
-[🌐 **Vynaa MD GitHub Repository**](https://github.com/VynaaValerie/VynaaMD.git)
+[🌐 **Raikun MD GitHub Repository**](https://github.com/Sylmanru/Sylvestermanru.git)
 
 ---
 
@@ -97,5 +97,5 @@ Let’s connect and grow with *Vynaa Valerie*! 🎀
 
 ---
 
-**Vynaa MD** - Teman Chatting Seru dan Bermanfaat! 💖  
+**Raikun MD** - Teman Chatting Seru dan Bermanfaat! 💖  
 🎀 *Modern, Cute, and Pink!* 🌸
